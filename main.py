@@ -9,8 +9,9 @@ from week2.factorialClass import factorial
 from week2.factors import factors, factorsTester
 from week2.fiboCall import fiboCall
 from week2.primes import primes, primesTester
-
-
+from week3.palindrome import palindrome
+from week3.divider import animation
+from week3.database import databases
 main_menu = []
 
 # Menu list of [Prompts, Actions]
@@ -37,6 +38,8 @@ fun_sub_menu = [
     ["For Loop", for_loop],
     ["While Loop", while_loop],
     ["Recursive Loop", recursive_loop],
+    ["Database", databases],
+    ["Palindrome", palindrome],
 ]
 
 week0_sub_menu = [
@@ -50,6 +53,7 @@ week1_sub_menu = [
     ["For Loop", for_loop],
     ["While Loop", while_loop],
     ["Recursive Loop", recursive_loop],
+    ["Database", databases],
     ["Factorial", tester],
     ["Fibonacci", fibonacci],
 ]
@@ -61,6 +65,7 @@ week2_sub_menu = [
     ["Find Primes", primes],
     ["Primes Tester", primesTester],
     ["Fibonacci Call", fiboCall],
+    ["Palindrome", palindrome],
 ]
 
 
@@ -70,7 +75,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Math", math_submenu])
     menu_list.append(["Fun", fun_submenu])
-    menu_list.append(["--------------"])
+    menu_list.append(["--------------", animation])
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 2", week2_submenu])
