@@ -12,10 +12,7 @@
     <th>Review Ticket</th>
    </tr>
 
-      <tr>
-    <td>3</td>
-      <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/4">Algorithmic Final</a><br>
-       <a href="https://www.youtube.com/watch?v=b-KMOuOEAc0">Algorithmic Final Video</a>
+       <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.5">5.5 Legal and Ethical Concerns </a>- <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.6">5.6 Safe Computing</a> (Notes & Actions)</td>
    </tr>
    
    <tr>
