@@ -12,6 +12,9 @@ from week2.primes import primes, primesTester
 from week3.palindrome import palindrome
 from week3.divider import animation
 from week3.database import databases
+from week3 import advy
+from week3.sunglasses import clear
+
 main_menu = []
 
 # Menu list of [Prompts, Actions]
@@ -27,7 +30,7 @@ math_sub_menu = [
     ["Factors Tester", factorsTester], 
     ["Find Primes", primes],
     ["Primes Tester", primesTester],
-    
+    ["Palindrome", palindrome],    
 ]
 
 fun_sub_menu = [
@@ -39,7 +42,15 @@ fun_sub_menu = [
     ["While Loop", while_loop],
     ["Recursive Loop", recursive_loop],
     ["Database", databases],
-    ["Palindrome", palindrome],
+    ["Divider", animation],
+]
+
+adventure_sub_menu = [
+    ["At the Beach?", advy.beach],
+    ["On top of the Mountains?", advy.mountain],
+    ["Navigating a lake?", advy.lake],
+    ["On a Ship?", ship],
+    ["Putting on Sunglasses?", clear],
 ]
 
 week0_sub_menu = [
@@ -69,16 +80,24 @@ week2_sub_menu = [
 ]
 
 
+week3_sub_menu = [
+    ["Palindrome", palindrome],
+    ["Database", databases],
+    ["Divider", animation],
+]
+
 # def menu
 def menu():
     title = "Main Menu"
     menu_list = main_menu.copy()
     menu_list.append(["Math", math_submenu])
     menu_list.append(["Fun", fun_submenu])
+    menu_list.append(["Adventure", adventure_submenu])
     menu_list.append(["--------------", animation])
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 2", week2_submenu])
+    menu_list.append(["Week 3", week3_submenu])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -89,6 +108,16 @@ def math_submenu():
 def fun_submenu():
     title = "Fun Submenu" 
     buildMenu(title, fun_sub_menu)
+
+def adventure_submenu():
+    title = "Adventure Submenu" 
+    buildMenu(title, adventure_sub_menu)
+
+def week3_submenu():
+    title = "Week 3 Submenu"
+    menu_list = week3_sub_menu.copy()
+    menu_list.append(["Adventure", adventure_submenu])
+    buildMenu(title, menu_list)
   
 def week2_submenu():
     title = "Week 2 Submenu"
