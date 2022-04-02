@@ -12,6 +12,12 @@
     <th>Review Ticket</th>
    </tr>
 
+      <tr>
+    <td>3</td>
+      <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/4">Algorithmic Final</a><br>
+       <a href="https://www.youtube.com/watch?v=b-KMOuOEAc0">Algorithmic Final Video</a>
+   </tr>
+   
    <tr>
     <td>2</td>
       <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/3">Classy Functions</a><br>
