@@ -12,9 +12,6 @@
     <th>Review Ticket</th>
    </tr>
 
-       <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.5">5.5 Legal and Ethical Concerns </a>- <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.6">5.6 Safe Computing</a> (Notes & Actions)</td>
-   </tr>
-   
    <tr>
     <td>2</td>
       <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/3">Classy Functions</a><br>
