@@ -1,5 +1,13 @@
 ---
 
+<br>
+
+<div id="video_wrapper">
+  <video autoplay loop>
+    <source src="https://drive.google.com/uc?export=view&id=18m1-WZ8y18p8BpGyCfZWXvNKYj7Fr0IX" type="video/mp4">
+  </video>
+</div>
+
 ## Create Task Ideas
 Complex interactive quiz game called "Which BLACKPINK Member Are You?" that can be implemented into the Break Time portion of our website and contains multiple features which expresses creativity. There is a total of 4 questions that contains 4 different options. A numerical value (1, 2, 3 or 4) will be assigned to each of the options, and different ranges of ending point values will correspond to different BLACKPINK members.
 
