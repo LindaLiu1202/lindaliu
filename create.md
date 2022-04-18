@@ -13,7 +13,7 @@ Complex interactive quiz game called "Which BLACKPINK Member Are You?" that can 
 
 Feature ideas: random BLACKPINK fact generator, display BLACKPINK's top YouTube mvs, changeable backgrounds using buttons <br> 
 
-### [Link to Runtime](http://127.0.0.1:5000/quiz1/) <br>
+### [Link to Runtime](http://localhost:63342/flask_portfolio/templates/quiz1.html?_ijt=piucut8b8fguh1l5tte5ej94vj) <br>
 
 ## Requirements
 | Requirements       |  Implementation |
