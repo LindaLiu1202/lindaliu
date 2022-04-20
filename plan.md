@@ -23,6 +23,10 @@ About Debugging:
 - show a example of paper debugging
 - figure out the variables and track it
 
+Others:
+- improve login page
+- running project on replit
+
 ---
 
 ## Study Plan
