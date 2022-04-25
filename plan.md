@@ -72,8 +72,7 @@ Others:
      </td>
   </tr>   
   
-- Reflection
-  - For this week, I completed the 2 practice quizzes and corrections, set up a new repository/made a seperate website for Create Task project, moved blackpink quiz with a second greek goddess quiz that was made by my partner for Create Task, Saathvika, to the new website, and filmed the Create Task video. I also added background music to the two quizzes. However, I didn't get to watch the AP daily review videos and edit the written responses for Create Task, so I will work on them next week and fix written responses as soon as possible. Although we improved the our interactive quiz project, but I feel like I can add more things to this project such as improving the design for homepage. In conclusion, I need to be more productive next week and edit the written responses. <br>
+- Reflection: For this week, I completed the 2 practice quizzes and corrections, set up a new repository/made a seperate website for Create Task project, moved blackpink quiz with a second greek goddess quiz that was made by my partner for Create Task, Saathvika, to the new website, and filmed the Create Task video. I also added background music to the two quizzes. However, I didn't get to watch the AP daily review videos and edit the written responses for Create Task, so I will work on them next week and fix written responses as soon as possible. Although we improved the our interactive quiz project, but I feel like I can add more things to this project such as improving the design for homepage. In conclusion, I need to be more productive next week and edit the written responses. <br>
   
   
 
