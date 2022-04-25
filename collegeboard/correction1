@@ -1,0 +1,33 @@
+**Score: 46/50**
+
+**Q11 directory information not supplied by customer**
+![Screenshot (316)](https://user-images.githubusercontent.com/89223976/164789672-6ebd0951-72fd-4a6c-aaaf-362a8d79babd.png) <br>
+The upgraded system uses a directory containing additional information not supplied by the customer. The directory is used to help direct calls effectively. Which of the following is LEAST likely to be included in the directory? <br>
+- My Answer: A - A list of common issues and whether each issue requires a human representative
+- Correct answer: C - A list of computers the company owns and the computers’ corresponding IP addresses
+- Explanation: This list of common issues would be helpful in deciding whether the customer should be directed to a representative or to a recording. A list of the company’s computers and their IP addresses is not needed to help direct calls.
+
+<br>
+
+**Q12 input data needed by updated system (same diagram as Q11)**
+![Screenshot (319)](https://user-images.githubusercontent.com/89223976/164791749-a987d607-3b76-4bbb-a6ec-02bf6cb54ef7.png) <br>
+- My Answer: B - ii only
+- Correct answer: A - i only
+- Explanation: An audio signal of the customer’s voice is needed when the customer describes the issue in the upgraded system. It is not needed in the original system. The customer’s keypad selection is used in the original system but not in the upgraded system. The customer’s phone number is captured in upgraded system; however, it is not needed to direct a call to the appropriate destination. 
+
+<br>
+
+**Q39 minimize execution time using parallel computing**
+![Screenshot (317)](https://user-images.githubusercontent.com/89223976/164790692-70b38b93-d16e-4c07-8389-53e7603ac2d9.png) <br>
+- My Answer: D - 90 seconds
+- Correct answer: C - 80 seconds
+- Explanation: With processor Y(30 sec) & Z(50 sec) running in parallel, the execution time would be at its minimum, which is 30 + 50 = 80 sec. Processor X(60 sec) is done within the 80 sec, so it doesn't add more time to the 80 sec total execution time.
+
+<br>
+
+**Q48 Remove network connections so A cannot contact F**
+![Screenshot (320)](https://user-images.githubusercontent.com/89223976/164792170-11730e67-799a-4775-b318-6c66fe42ba1f.png) <br>
+- My Answer: B - 3
+- Correct answer: A - 2
+- Explanation: Removing three connections could prevent devices A and F from communicating, but it can also be done by removing only the two connections between C and F and between F and H.
+
