@@ -27,3 +27,22 @@ ___
    <td><a href="collegeboard/5.5">5.5</a>-<a href="collegeboard/5.6">5.6</a></td>
   </tr> 
  </table>
+
+---
+
+<table id="corrections">
+   <tr>
+   <th>Quiz</th>
+   <th>Correction</th>
+   </tr>
+
+  <tr>
+   <td>Finals-Quiz1</td>
+   <td><a href="collegeboard/ ">Correction</a></td>
+  </tr>  
+  
+   <tr>
+   <td>Finals-Quiz2</td>
+   <td><a href="collegeboard/ ">Correction</a></td>
+  </tr> 
+ </table>
