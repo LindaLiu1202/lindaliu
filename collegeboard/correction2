@@ -1,0 +1,44 @@
+**Score: 45/30**
+
+**Q6 Adding numbers in 4-bit representation** <br>
+A certain programming language uses 4-bit binary sequences to represent nonnegative integers. For example, the binary sequence 0101 represents the corresponding decimal value 5. Using this programming language, a programmer attempts to add the decimal values 14 and 15 and assign the sum to the variable total. Which of the following best describes the result of this operation? <br>
+- My Answer: A - The correct sum of 29 will be assigned to the variable total.
+- Correct answer: C - An overflow error will occur because 4 bits is not large enough to represent 29, the sum of 14 and 15.
+- Explanation: The largest binary value that can be represented using 4 bits is 1111, which is equal to the decimal value 15. Since the sum is larger than the largest representable value, an overflow error will occur.
+
+<br>
+
+**Q13 Assign parallel processes to optimize speed** 
+![Screenshot (321)](https://user-images.githubusercontent.com/89223976/164793305-48fff8f7-8e7b-4f25-a40f-3f7d5cbb5e5e.png) <br>
+- My Answer: A - Processes W and X should be assigned to one processor, and processes Y and Z should be assigned to the other processor.
+- Correct answer: C - Processes W and Z should be assigned to one processor, and processes X and Y should be assigned to the other processor.
+- Explanation: Execution time is optimized when the workload of the two processors is as close to equal as possible, so that one processor does not finish too early and have to wait for the other processor to finish. The closest-to-equal workloads are achieved by assigning processes W and Z to one processor (taking 70 seconds) and assigning processes X and Y to the other processor (taking 75 seconds). Using this solution, all four processes will finish executing in 75 seconds.
+
+<br>
+
+**Q25 Benefit of RunRoutr** 
+![Screenshot (322)](https://user-images.githubusercontent.com/89223976/164793751-8be01808-9323-4601-9c9e-cdc7454460c1.png) <br>
+- My Answer: A - The application allows users to identify all other users in a particular area.
+- Correct answer: D - An overflow error will occur because 4 bits is not large enough to represent 29, the sum of 14 and 15.
+- Explanation: 
+
+<br>
+
+- My Answer: D - Users of the application who live in rural areas have the ability to use all the features of the application, even when they do not have Internet and geolocation connectivity.
+- Correct answer: C - Users of the application may see health benefits as a result of the application encouraging them to exercise with each other.
+- Explanation: The application relies on geolocation information in order to suggest a running route. In addition, the application requires network connectivity in order to send and receive data. The application can be used to connect users with other nearby users, which may encourage users to exercise together. This may have the effect of improving user health.
+
+<br>
+
+**Q41 Clothing store sales information** 
+![Screenshot (324)](https://user-images.githubusercontent.com/89223976/164794788-85d97494-2c71-4f88-aaab-21bae4220366.png)
+- My Answer: B - The method of payment that was used in the greatest number of transactions during the 7-day period can be determined by sorting the data by the method of payment, then adding the number of items purchased for each type of payment method, and then finding the maximum sum.
+- Correct answer: D - The total number of items purchased on a given date can be determined by searching the data for all transactions that occurred on the given date and then adding the number of items purchased for each matching transaction.
+- Explanation: 
+
+**Q47 Comparing smartphone and reading data in a graph**
+![Screenshot (323)](https://user-images.githubusercontent.com/89223976/164794136-b2a11605-ac52-4558-9915-5f7b2d01264c.png) <br>
+- My Answer: B - Participants who read more were generally less likely to say they are interested in the application.
+- Correct answer: A - Participants who read more were generally more likely to say they are interested in the application.
+- Explanation: The xs, indicating participants who are interested in the application, are clustered toward the top of the graph.
+This indicates that participants who read more were generally more likely to say they are interested in the application. I chose B because I thought the xs represent that the participants are not interested. Read instruction carefully!
