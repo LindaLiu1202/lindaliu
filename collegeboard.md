@@ -38,11 +38,11 @@ ___
 
   <tr>
    <td>Finals-Quiz1</td>
-   <td><a href="collegeboard/correction1">Correction1</a></td>
+   <td><a href="https://lindaliu.github.io/lindaliu/collegeboard/correction1">Correction1</a></td>
   </tr>  
   
    <tr>
    <td>Finals-Quiz2</td>
-   <td><a href="collegeboard/correction2">Correction2</a></td>
+   <td><a href="https://lindaliu.github.io/lindaliu/collegeboard/correction2">Correction2</a></td>
   </tr> 
  </table>
