@@ -15,6 +15,8 @@ Feature ideas: random BLACKPINK fact generator, display BLACKPINK's top YouTube 
 
 ### [Link to Runtime](http://localhost:63342/flask_portfolio/templates/quiz1.html?_ijt=piucut8b8fguh1l5tte5ej94vj) <br>
 
+<video src="https://drive.google.com/file/d/1ZVpdPrT3z054VlmkveIOxGMP76jKTqYc/view">Create Task Video</video>
+
 ## Requirements
 - Requirements   |  Implementation 
 - Program Purpose and Function - | Input will come from user clicking his/her choice under the questions. Program output will return based on which member's number range did the total score of user fells within.     
@@ -49,9 +51,9 @@ Feature ideas: random BLACKPINK fact generator, display BLACKPINK's top YouTube 
 
 
 
-## Runtime Features Shown in 1 Minute Video
+## Create Task Video 1st Version
 * [Link to Video](https://drive.google.com/file/d/1Xfp15B5-ZlGGc_erR21kA9IIkjmJ2DQT/view)
 
-## Code in pdf file
+## 1st Version Create Task Code in pdf file
 * [Link to Code pdf file](https://drive.google.com/file/d/1-OgLqMcDDlNr4sDPg3zfuxY4UbWOWktK/view)
 
