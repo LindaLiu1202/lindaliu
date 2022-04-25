@@ -1,7 +1,5 @@
 <br>
 
-##### 2020 Tri 3 Week 5: 4/18 - 4/25, AP Preparation Week 1
-
 # Study Plan / Todo List
 
 ---
@@ -11,7 +9,7 @@
   </video>
 </div>
 
-About Create Task Project:
+Ideas for Create Task Project:
   - create a seperate website just for create task
   - create few more quizzes
   - homepage with buttons link to different quizzes
@@ -30,8 +28,8 @@ Others:
 - running project on replit
 
 ---
-
-## Study Plan
+##### 2020 Tri 3 Week 5: 4/18 - 4/25, AP Preparation Week 1
+## Week 1 Study Plan
 
 <table id="plan">
    <tr>
@@ -48,7 +46,7 @@ Others:
   <tr>
    <td>Tuesday 4/19</td>
    <td><a href="https://apclassroom.collegeboard.org/103/assessments/results/45805839/performance"> Proctored MCQ test: Finals-Quiz1 on CB </a> <br>
-    <a href=" "> Finals-Quiz1 Corrections </a></td>
+    <a href="https://github.com/LindaLiu1202/lindaliu/wiki/Finals-Quiz1-Corrections"> Finals-Quiz1 Corrections </a></td>
   </tr> 
   
   <tr>
@@ -61,17 +59,22 @@ Others:
   
    <tr>
    <td>Thursday 4/21</td>
-   <td><a href="https://apclassroom.collegeboard.org/103/home?unit=-1">2022 Ap Exam On-Demand Review: Session 1 & 2</a> <br>
-       <a>Working on creating a new interactive quiz</a><br>
-     </td>
+   <td><a>Proctored MCQ test: Finals-Quiz1 on CB</a><br>
+       <a href="https://github.com/LindaLiu1202/lindaliu/wiki/Finals-Quiz2-Corrections"> Finals-Quiz2 Corrections </a> <br>
+       <a>Working on creating a new interactive quiz</a><br>    
+   </td>
   </tr> 
   
    <tr>
    <td>Friday 4/22</td>
    <td><a href="https://apclassroom.collegeboard.org/103/home?unit=-1">2022 Ap Exam On-Demand Review: Create PT Response Examples and Scoring</a><br>
-      <a>Fix college board written responses</a><br>
+       <a href="https://drive.google.com/file/d/1ZVpdPrT3z054VlmkveIOxGMP76jKTqYc/view">Working on Create Task Video</a><br>
      </td>
-  </tr> 
+  </tr>   
+  
+- Reflection
+  - For this week, I completed the 2 practice quizzes and corrections, set up a new repository/made a seperate website for Create Task project, moved blackpink quiz with a second greek goddess quiz that was made by my partner for Create Task, Saathvika, to the new website, and filmed the Create Task video. I also added background music to the two quizzes. However, I didn't get to watch the AP daily review videos and edit the written responses for Create Task, so I will work on them next week and fix written responses as soon as possible. Although we improved the our interactive quiz project, but I feel like I can add more things to this project such as improving the design for homepage. In conclusion, I need to be more productive next week and edit the written responses. <br>
+  
   
 
 
