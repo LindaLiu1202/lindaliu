@@ -9,6 +9,12 @@
   </video>
 </div>
 
+<a href=https://github.com/LindaLiu1202/lindaliu/blob/gh_page/plan2.md>Week 2 Study Plan<a>
+
+
+
+---
+
 Ideas for Create Task Project:
   - create a seperate website just for create task
   - create few more quizzes
