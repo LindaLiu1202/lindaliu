@@ -9,13 +9,11 @@
 </div>
 
 ## Create Task Ideas
-Complex interactive quiz game called "Which BLACKPINK Member Are You?" that can be implemented into the Break Time portion of our website and contains multiple features which expresses creativity. There is a total of 4 questions that contains 4 different options. A numerical value (1, 2, 3 or 4) will be assigned to each of the options, and different ranges of ending point values will correspond to different BLACKPINK members.
-
-Feature ideas: random BLACKPINK fact generator, display BLACKPINK's top YouTube mvs, changeable backgrounds using buttons <br> 
+We have two unique and exciting personality quizzes that you can take to learn more about yourself! These interactive quiz games are called: "Which Blackpink Member Are You?" and "Which Greek Goddess Are You?" and they contain multiple features such as a card hover interaction in the homepage, pause and play music buttons, animated navigation buttons, header image changing buttons, a random Blackpink fact generator API, and finally the actual quizzes themselves which include unique questions and images to help you figure out who your personality is the most similar to. Our project expresses creativity and explores our personal interests through the topics of the quizzes, the formatting and CSS, and our own original quiz questions. In each quiz, there are a total of 4 questions that contain 4 different options. A numerical value (1, 2, 3 or 4) will be assigned to each of the options, and different ranges of ending point values will correspond to different Blackpink members or Greek Goddesses.
 
 ### [Link to Runtime](http://localhost:63342/flask_portfolio/templates/quiz1.html?_ijt=piucut8b8fguh1l5tte5ej94vj) <br>
 
-<video src="https://drive.google.com/file/d/1ZVpdPrT3z054VlmkveIOxGMP76jKTqYc/view">Create Task Video</video>
+<a href="https://drive.google.com/file/d/1hB1BRtvpn5NcPxV9RTup2RYmsV9NhcXM/view">Create Task Video</a>
 
 ## Requirements
 - Requirements   |  Implementation 
@@ -48,12 +46,4 @@ Feature ideas: random BLACKPINK fact generator, display BLACKPINK's top YouTube 
 - 3di - Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.  |The first call is the return function and the second call function is the get element id that allows the procedure to run through the if statements and submit which member of the band you are.
 - 3dii - Describes what condition(s) is being tested by each call to the procedure  |The program accumulates points for each answer option that is recorded. One the user clicks the "Submit" button, the program then calculates the total number of points acquired and follows through a set of if statements in order to associate the point to a member (defined by a point range).
 - 3diii - Identifies the result of each call |The result of the calls is the what member you would be after the user clicks on the "Submit Button."
-
-
-
-## Create Task Video 1st Version
-* [Link to Video](https://drive.google.com/file/d/1Xfp15B5-ZlGGc_erR21kA9IIkjmJ2DQT/view)
-
-## 1st Version Create Task Code in pdf file
-* [Link to Code pdf file](https://drive.google.com/file/d/1-OgLqMcDDlNr4sDPg3zfuxY4UbWOWktK/view)
 
