@@ -45,4 +45,9 @@ ___
    <td>Finals-Quiz2</td>
    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/Finals-Quiz2-Corrections">Correction2</a></td>
   </tr> 
+  
+   <tr>
+   <td>Finals-Week2-Quiz3</td>
+   <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/Finals-Week2-Quiz3-Corrections">Correction3</a></td>
+  </tr> 
  </table>
