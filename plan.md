@@ -9,7 +9,7 @@
   </video>
 </div>
 
-<a href=https://github.com/LindaLiu1202/lindaliu/blob/gh_page/plan2.md>Week 2 Study Plan<a>
+<a href= "https://github.com/LindaLiu1202/lindaliu/blob/gh_page/plan2.md">Week 2 Study Plan<a>
 
 
 
