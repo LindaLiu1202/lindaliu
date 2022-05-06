@@ -1,4 +1,4 @@
-## Week 3 Study Plan
+## AP Exams Week 1 Study Plan
 
 <table id="plan3">
    <tr>
