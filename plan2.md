@@ -1,4 +1,4 @@
-## Week 2 Study Plan
+## Proctored MCQ Week 2 Study Plan
 
 <table id="plan2">
    <tr>
