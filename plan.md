@@ -10,6 +10,7 @@
 </div>
 
 <a href= "https://github.com/LindaLiu1202/lindaliu/blob/gh_page/plan2.md">Week 2 Study Plan<a>
+<a href= "https://github.com/LindaLiu1202/lindaliu/blob/gh_page/plan3.md">Week 3 Study Plan<a>
 
 
 
